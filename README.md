@@ -1,4 +1,4 @@
-# GWDA243WI17
+# GWDA243WI17 Object Oriented Scripting
 
 ##What will you learn in this course?
 * Object Oriented Scripting
